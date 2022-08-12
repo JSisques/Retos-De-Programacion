@@ -7,9 +7,6 @@
  * - Dos palabras exactamente iguales no son anagrama.
  '''
 
-from pickle import FALSE
-
-
 def isAnagram(word1, word2):
 
     res = True
